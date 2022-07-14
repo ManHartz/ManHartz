@@ -7,7 +7,7 @@
 ## Most Used Languages
  - ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhaziqmy&theme=blue-purple)
 
-## Here a joke for you
+## Here is a random joke for you
  - ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
