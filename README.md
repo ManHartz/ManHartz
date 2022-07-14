@@ -8,7 +8,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=aimanhaziqmy)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url =React-GAS-Starter)
 
 <!---
 ManHartz/ManHartz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
