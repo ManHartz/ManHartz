@@ -4,7 +4,7 @@
 - 💞️ I'm seeking to work on any project linked to the services industry, with a focus on developing the backend, databases, APIs, and automations.
 - 📫 How to reach me : aimanhaziqyazik@gmail.com
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhaziqmy&theme=blue-green)
+ - ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhaziqmy&theme=blue-purple)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
