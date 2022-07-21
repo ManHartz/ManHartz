@@ -7,9 +7,6 @@
 ## Most Used Languages
  - ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhaziqmy&theme=blue-purple)
 
-## Here is a random joke for you
- - ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 
 <!---
 ManHartz/ManHartz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
