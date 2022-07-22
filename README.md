@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ManHartz<br>👀 I’m interested in Javascript, Python and PHP.<br>🌱 I’m currently learning React, React Native, Nodejs, PHP, Google Cloud, Firebase, Python and PHP.<br>💞️ I'm seeking to work on any project linked to the services industry, with a focus on developing the backend, databases, APIs, and automations.<br>📫 How to reach me : aimanhaziqyazik@gmail.com
+👋 Hi, I’m @aimanhaziqmy<br>👀 I’m interested in Javascript, Python and PHP.<br>🌱 I’m currently learning React, React Native, Nodejs, PHP, Google Cloud, Firebase, Python and PHP.<br>💞️ I'm seeking to work on any project linked to the services industry, with a focus on developing the backend, databases, APIs, and automations.<br>📫 How to reach me : aimanhaziqyazik@gmail.com
 
 
 ## 🌐 Socials:
