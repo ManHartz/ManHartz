@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Hi, I’m @aimanhaziqmy<br>👀 I’m interested in various technologies. Mostly focused on developing MERN stack application. <br>🌱 I’m currently learning React, React Native, Nodejs, Laravel, Google Cloud, Azure, AWS, Firebase, Tensorflow, Python, Java and PHP.<br>💞️ I'm seeking to work on any project linked to the services industry, with a focus on developing the backend, databases, APIs, and automations.<br>📫 How to reach me : aimanhaziqyazik@gmail.com / http://aimanhaziq.my
+👋 Hi, I’m @aimanhaziqmy, an experienced engineer with a passion for technology and a focus on developing robust server infrastructures and cutting-edge applications. My expertise lies in the MERN stack, where I excel in creating dynamic and scalable applications using ReactJS, React Native, and Node.js.
+
+💼 Currently, I thrive in managing server infrastructures efficiently, employing tools like Ansible, Docker, and Kubernetes to ensure smooth operations and seamless deployments.
+
+🌱 I’m continuously expanding my skill set to stay ahead in the ever-evolving tech landscape. I'm currently delving into diverse areas such as React, React Native, Node.js, Laravel, Google Cloud, Azure, AWS, Firebase, Tensorflow, Python, Java, and PHP, empowering me to take on multifaceted projects.
+
+💡 I'm eager to take on challenges in the services industry, where I can leverage my skills in backend development, database management, and API integration to create practical and innovative solutions. Automation is my forte, and I take pride in streamlining processes to boost productivity.
+
+📫 Let's collaborate! Reach out to me at aimanhaziqyazik@gmail.com or explore more about my work at http://aimanhaziq.my. I'm open to exciting opportunities where I can contribute my expertise and drive technological advancements.
 
 
 ## 🌐 Socials:
