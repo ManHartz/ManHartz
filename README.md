@@ -7,7 +7,7 @@
 
 💡 I'm eager to take on challenges in the services industry, where I can leverage my skills in backend development, database management, and API integration to create practical and innovative solutions. Automation is my forte, and I take pride in streamlining processes to boost productivity.
 
-📫 Let's collaborate! Reach out to me at aimanhaziqyazik@gmail.com or explore more about my work at https://aimanhaziq.my. I'm open to exciting opportunities where I can contribute my expertise and drive technological advancements.
+📫 Let's collaborate! Reach out to me at me@aimanhaziq.my or explore more about my work at https://aimanhaziq.my. I'm open to exciting opportunities where I can contribute my expertise and drive technological advancements.
 
 
 ## 🌐 Socials:
