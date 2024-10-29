@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @aimanhaziqmy, an engineer with a passion for technology and a focus on developing robust server infrastructures and cutting-edge applications. My expertise lies in the MERN stack, where I excel in creating dynamic and scalable applications using ReactJS, React Native, and Node.js.
+👋 Hi, I’m @aimanhaziqmy, an engineer with a passion for technology and a focus on developing robust server infrastructures and cutting-edge applications. My expertise lies in the MERN stack, where I excel in creating dynamic and scalable applications using ReactJS, React Native, and Node.js. Im am also a research student researching data processing with python, Kafka, Nats, AWS, Machine Learning, NLP, Apache Spark and Apache Flink.
 
 💼 Currently, I thrive in managing server infrastructures efficiently, employing tools like Ansible, Docker, and Kubernetes to ensure smooth operations and seamless deployments. I also work on server monitoring tools like Prometheus and Grafana.
 
